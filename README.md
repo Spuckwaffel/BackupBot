@@ -41,7 +41,6 @@ To run this project, make sure to have a java compiler + newest JDA, MySQL jar
 You can find the links under [Technologies](#technologies)
 
 
-[CCDiscord]: https://bit.ly/37wKuFA
 [discord]: https://discord.com
 [DCServer]: https://discord.gg/aP88KNHSt7
 [twitter]: https://twitter.com/spuckwaffel
